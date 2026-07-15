@@ -1,0 +1,62 @@
+[
+  {
+    "artifact": "processed_news",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/processed_news.csv",
+    "bundled_filename": "processed_news.csv",
+    "size_bytes": 59758507
+  },
+  {
+    "artifact": "processed_behaviors",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/processed_behaviors.csv",
+    "bundled_filename": "processed_behaviors.csv",
+    "size_bytes": 92019761
+  },
+  {
+    "artifact": "news_embeddings",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/news_embeddings.npy",
+    "bundled_filename": "news_embeddings.npy",
+    "size_bytes": 78769280
+  },
+  {
+    "artifact": "news_id_to_idx",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/news_id_to_idx.pkl",
+    "bundled_filename": "news_id_to_idx.pkl",
+    "size_bytes": 606648
+  },
+  {
+    "artifact": "user_embeddings",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/user_embeddings.npy",
+    "bundled_filename": "user_embeddings.npy",
+    "size_bytes": 75430016
+  },
+  {
+    "artifact": "user_embeddings_ids",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/user_embeddings_ids.csv",
+    "bundled_filename": "user_embeddings_ids.csv",
+    "size_bytes": 337983
+  },
+  {
+    "artifact": "faiss_index",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/faiss.index",
+    "bundled_filename": "faiss.index",
+    "size_bytes": 78769197
+  },
+  {
+    "artifact": "popularity_scores",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/popularity_scores.csv",
+    "bundled_filename": "popularity_scores.csv",
+    "size_bytes": 202839
+  },
+  {
+    "artifact": "logreg_model",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/ranker_logreg.pkl",
+    "bundled_filename": "ranker_logreg.pkl",
+    "size_bytes": 798
+  },
+  {
+    "artifact": "lightgbm_model",
+    "configured_destination": "/kaggle/working/personalized-news-recommender/data/ranker_lightgbm.pkl",
+    "bundled_filename": "ranker_lightgbm.pkl",
+    "size_bytes": 1755553
+  }
+]
